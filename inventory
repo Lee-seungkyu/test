@@ -1,0 +1,9 @@
+[all:children]
+defalut
+abcde
+
+[abcde]
+abcdehost
+
+[defalut]
+localhost
